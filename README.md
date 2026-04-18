@@ -1,2 +1,10 @@
-# Regressao-Linear
-Esse projeto usa Scikit-Learn para Prever as vendas por mês à partir de um arquivo de fonte CSV
+# Regressão Linear
+
+## Como Funciona
+É um código feito em Python usando a biblioteca Scikit-Learn que usa do conceito de Regressão Linear para prever as próximas vendas de uma empresa utilizando as vendas por mês.
+
+## Instalação
+```pip install -r requirements.txt ```
+
+## Utilização
+```python main.py```
